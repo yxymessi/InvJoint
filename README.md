@@ -1,7 +1,7 @@
 
 This is the official Pytorch implemenation of "Invariant Training on Joint Hard samples for Few-shot 3D Shape Recognition".
 
-![GitHub Logo](framework.pdf)
+![GitHub Logo](framwork.pdf)
 
 I've recently been busy preparing my submission for ICLR as well as expanding the paper's content for journal publication. 
 
