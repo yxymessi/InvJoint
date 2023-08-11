@@ -2,7 +2,7 @@
 This is the official Pytorch implemenation of "Invariant Training on Joint Hard samples for Few-shot 3D Shape Recognition".
 
 <div align="center">
-  <img src="./figure1.png/>
+  <img src="./figure1.png/>"
 </div>
 
 
